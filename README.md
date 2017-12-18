@@ -1,2 +1,2 @@
-# xBot
-Repository for xBot Open Source Printer
+# xBot Medium
+In this repository you will find the documentation and source files for the xBot Medium 3D printer. If you are missing a part or information on anything, please feel free to file an issue or contact me via my website at betrue3d.dk
