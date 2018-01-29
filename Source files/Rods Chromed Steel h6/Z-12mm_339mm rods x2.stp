@@ -10,10 +10,10 @@ FILE_DESCRIPTION(
 
 FILE_NAME(
 /* name */ 
-'c:\\worker\\convert-fusion-nov-2017\\tmp\\job-1\\13\\output\\files\\f
-9426722-bf0d-4f95-aa43-a7ddba9ca6ae\\bf3707c4-0496-466c-b7a0-c14397116
-8ee.stp',
-/* time_stamp */ '2017-12-19T08:54:09+00:00',
+'c:\\worker\\convert-fusion-nov-2017\\tmp\\job-1\\18\\output\\files\\1
+6203811-35d7-4148-beb3-5bf44577a7b2\\970bf08c-cdac-4cf7-b778-9d9838374
+30d.stp',
+/* time_stamp */ '2018-01-28T08:36:03+00:00',
 /* author */ (''),
 /* organization */ (''),
 /* preprocessor_version */ 'ST-DEVELOPER v16.13',
@@ -32,9 +32,8 @@ REPRESENTATION_RELATIONSHIP_WITH_TRANSFORMATION(#11)
 SHAPE_REPRESENTATION_RELATIONSHIP()
 );
 #13=CONTEXT_DEPENDENT_SHAPE_REPRESENTATION(#12,#159);
-#14=NEXT_ASSEMBLY_USAGE_OCCURRENCE('Z_12mm_338.50 mm:1',
-'Z_12mm_338.50 mm:1','Z_12mm_338.50 mm:1',#163,#164,
-'Z_12mm_338.50 mm:1');
+#14=NEXT_ASSEMBLY_USAGE_OCCURRENCE('Z_12mm_339mm:1','Z_12mm_339mm:1',
+'Z_12mm_339mm:1',#163,#164,'Z_12mm_339mm:1');
 #15=SHAPE_REPRESENTATION_RELATIONSHIP('SRR','None',#161,#16);
 #16=ADVANCED_BREP_SHAPE_REPRESENTATION('',(#18),#149);
 #17=STYLED_ITEM('',(#175),#18);
@@ -230,21 +229,20 @@ SI_UNIT($,.RADIAN.)
 #161=SHAPE_REPRESENTATION('',(#88),#149);
 #162=PRODUCT_DEFINITION_CONTEXT('part definition',#170,'design');
 #163=PRODUCT_DEFINITION('Z-12mm_339mm rods x2',
-'Z-12mm_339mm rods x2 v3',#165,#162);
-#164=PRODUCT_DEFINITION('Z_12mm_338.50 mm','Z_12mm_338.50 mm',#166,#162);
+'Z-12mm_339mm rods x2 v4',#165,#162);
+#164=PRODUCT_DEFINITION('Z_12mm_339mm','Z_12mm_339mm',#166,#162);
 #165=PRODUCT_DEFINITION_FORMATION('',$,#172);
 #166=PRODUCT_DEFINITION_FORMATION('',$,#173);
-#167=PRODUCT_RELATED_PRODUCT_CATEGORY('Z-12mm_339mm rods x2 v3',
-'Z-12mm_339mm rods x2 v3',(#172));
-#168=PRODUCT_RELATED_PRODUCT_CATEGORY('Z_12mm_338.50 mm',
-'Z_12mm_338.50 mm',(#173));
+#167=PRODUCT_RELATED_PRODUCT_CATEGORY('Z-12mm_339mm rods x2 v4',
+'Z-12mm_339mm rods x2 v4',(#172));
+#168=PRODUCT_RELATED_PRODUCT_CATEGORY('Z_12mm_339mm','Z_12mm_339mm',(#173));
 #169=APPLICATION_PROTOCOL_DEFINITION('international standard',
 'automotive_design',2009,#170);
 #170=APPLICATION_CONTEXT(
 'Core Data for Automotive Mechanical Design Process');
 #171=PRODUCT_CONTEXT('part definition',#170,'mechanical');
-#172=PRODUCT('Z-12mm_339mm rods x2','Z-12mm_339mm rods x2 v3',$,(#171));
-#173=PRODUCT('Z_12mm_338.50 mm','Z_12mm_338.50 mm',$,(#171));
+#172=PRODUCT('Z-12mm_339mm rods x2','Z-12mm_339mm rods x2 v4',$,(#171));
+#173=PRODUCT('Z_12mm_339mm','Z_12mm_339mm',$,(#171));
 #174=PRESENTATION_STYLE_ASSIGNMENT((#176));
 #175=PRESENTATION_STYLE_ASSIGNMENT((#177));
 #176=SURFACE_STYLE_USAGE(.BOTH.,#178);
