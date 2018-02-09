@@ -1,0 +1,6 @@
+
+In this directory you can find listings of various "other" items like dimensions and wiring of front LED, but also lenght and pin-layout of wiring harness to carriage and similar.
+I will be creating these files as I finish them up as "final" and measure them up.
+
+I can unveil the longest run of wireharness from the rear GX plugs up to carriage will be 100cm if you have configured your printer with the maxium distance possible, where you have a 3mm extruder placed at the opposite side of the GX connectors, so you have to route the wireharness across the printer and then along the Bowden tubing.
+The 100cm is including the extra 5cm going into twisting the wires.
