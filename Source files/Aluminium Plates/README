@@ -1,5 +1,10 @@
-# Custom aluminium parts of the xBot Medium printer:
+# Custom aluminium parts for the xBot Medium printer:
 
-Z-Stage/Gantry lift plate
+Z-Stage/Z-Gantry lift plate
 and
-Optionally the Heated platform itself. You can use an Ultimaker 2 bed, as they have the same size. I recommend a nice AC heated bed though.
+Optionally the Heated platform itself. 
+
+You can use an Ultimaker 2 bed, as they have the same size. 
+
+I recommend a nice AC silicone heater from Keenovo though. You can get them with build in Thermocoupler or PT100 sensor if you ask for it.
+Keenovo have even talked about being able to build in PT1000 sensor, which doesn't require a daughterboard on the Duet!
